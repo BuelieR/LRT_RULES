@@ -1,6 +1,7 @@
 site_name: LRT服务器制度 | LRT Server Rules
 site_url: https://example.com/
 site_author: BuelieR(离烟)
+docs_dir: docs
 nav:
   - 首页: index.md
   - 公路修建标准: road.md
