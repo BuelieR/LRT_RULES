@@ -1,0 +1,51 @@
+site_name: LRT服务器制度 | LRT Server Rules
+site_url: https://example.com/
+site_author: BuelieR(离烟)
+nav:
+  - 首页: index.md
+  - 公路修建标准: road.md
+  - 铁路修建标准: railway.md
+  - 备案制度: record.md
+  - 在案公路与铁路工程: way_record.md
+  - 在案城建及市政工程: city_record.md
+  - 其他: others.md
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - search.share
+    - search.suggest
+    - search.highlight
+  palette:
+    - media: "(prefers-color-scheme: light)" 
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"  
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  font:
+    text: "Roboto Mono"
+    code: "Roboto Mono"
+
+markdown_extensions:
+  - footnotes
+
+extra:
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:yydshmcl@outlook.com
