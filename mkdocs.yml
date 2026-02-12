@@ -46,7 +46,7 @@ theme:
 
 markdown_extensions:
   - footnotes
-  
+
 extra:
   social:
     - icon: fontawesome/solid/paper-plane
