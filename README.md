@@ -1,5 +1,5 @@
 # Visit
-**You can visit the website at `https://buelier.github.io/LRT_RULES/`[`https://buelier.github.io/LRT_RULES/`](https://buelier.github.io/LRT_RULES/) to see the document website.**
+**You can visit the website at [`https://buelier.github.io/LRT_RULES/`](https://buelier.github.io/LRT_RULES/) to see the document website.**
 
 # What's this project?
 **This is a document website about LRT rules in China that was built by a python package which named `mkdocs`.You can also use this project to create your own document website quickly.We agree all people use this project for non-commercial purposes.**
