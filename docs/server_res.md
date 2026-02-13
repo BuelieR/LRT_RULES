@@ -1,28 +1,15 @@
-# 其他
+# 服务器资源
 
-## 服务器资源
-
-### 游戏资源
+## 游戏资源
 * **[LRT Serve-only模组](https://github.com/BuelieR/lrt-server-only)**
 * **`CTS广州地铁追加包`(请到服务器QQ群内下载，此为服务器获授权资源)**
 > **TIPS: 你可以在PCL/HMCL/BakaXL等启动器中搜索`LRT`以下载服务器特供整合包（如图所示，前提是你需要联网），整合包全称为`『LRT Client』:The pinnacle of rail!`。当然，为了避免不必要的纠纷，你还是需要到QQ群下载付费资源包。**
 ![alt text](images/search_LRT.png)
 
-### 服务器链接
+## 服务器链接
 * **[高铁站以及普速站站台申请](https://v.wjx.cn/vm/hpRoGPo.aspx)**
 * **[OP权限申请](https://v.wjx.cn/vm/PvFvfek.aspx#)**
 * **[公司注册网址](https://www.wjx.cn/vm/O1ihyEQ.aspx#)**
-
-## 服务器现有OP
-* **BuelieR(QQ昵称：离烟,QQ号：2698233418)**
-* **XOKALEOX(QQ昵称：XOKALEOX,QQ号：3156377002)**
-
-## 服务器现有(QQ群)管理员
-* **JUMBOVISMA(QQ号：1497883223)**
-* **离烟(QQ号：2698233418)**
-* **看不见我(QQ号：1771357087)**
-* **XOKALEOX(QQ号：3156377002)**
-* **YAOSHI_MC(QQ号：911460080)**
 
 # 编辑者
 * **BuelieR(离烟)**

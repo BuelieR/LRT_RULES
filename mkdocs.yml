@@ -5,12 +5,18 @@ site_author: BuelieR(离烟)
 # 导航栏
 nav:
   - 首页: index.md
-  - 公路修建标准: road.md
-  - 铁路修建标准: railway.md
-  - 备案制度: record.md
-  - 在案公路与铁路工程: way_record.md
-  - 在案城建及市政工程: city_record.md
-  - 其他: others.md
+  - 服务器项目标准: 
+    - meter.md
+    - road.md
+    - railway.md
+  - 备案:
+    - record.md
+    - way_record.md
+    - city_record.md
+  - 其他: 
+    - server_res.md
+    - manger.md
+    - city_plan.md
 
 theme:
   name: material
