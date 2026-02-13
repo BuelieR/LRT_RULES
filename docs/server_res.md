@@ -3,7 +3,8 @@
 ## 游戏资源
 * **[LRT Serve-only模组](https://github.com/BuelieR/lrt-server-only)**
 * **`CTS广州地铁追加包`(请到服务器QQ群内下载，此为服务器获授权资源)**
-> **TIPS: 你可以在PCL/HMCL/BakaXL等启动器中搜索`LRT`以下载服务器特供整合包（如图所示，前提是你需要联网），整合包全称为`『LRT Client』:The pinnacle of rail!`。当然，为了避免不必要的纠纷，你还是需要到QQ群下载付费资源包。**
+* **[LRT 客户端整合包](https://modrinth.com/modpack/the-pinnacle-of-rail!/versions)**
+> **TIPS: 你可以在PCL/HMCL/BakaXL等启动器中搜索`LRT`以下载服务器特供整合包（如图所示，前提是你需要联网），整合包全称为`『LRT Client』:The pinnacle of rail!`。当然，为了避免不必要的纠纷，你还是需要到QQ群下载付费资源包。我们会定期更新整合包，主要在服务器添加大量新mod的时候进行更新。**
 ![alt text](images/search_LRT.png)
 
 ## 服务器链接
