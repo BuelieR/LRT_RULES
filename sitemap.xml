@@ -1,51 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-         <loc>https://example.com/</loc>
-         <lastmod>2026-02-14</lastmod>
-    </url>
-    <url>
-         <loc>https://example.com/base_rules/</loc>
-         <lastmod>2026-02-14</lastmod>
-    </url>
-    <url>
-         <loc>https://example.com/city_plan/</loc>
-         <lastmod>2026-02-14</lastmod>
-    </url>
-    <url>
-         <loc>https://example.com/city_record/</loc>
-         <lastmod>2026-02-14</lastmod>
-    </url>
-    <url>
-         <loc>https://example.com/manger/</loc>
-         <lastmod>2026-02-14</lastmod>
-    </url>
-    <url>
-         <loc>https://example.com/meter/</loc>
-         <lastmod>2026-02-14</lastmod>
-    </url>
-    <url>
-         <loc>https://example.com/past_events/</loc>
-         <lastmod>2026-02-14</lastmod>
-    </url>
-    <url>
-         <loc>https://example.com/railway/</loc>
-         <lastmod>2026-02-14</lastmod>
-    </url>
-    <url>
-         <loc>https://example.com/record/</loc>
-         <lastmod>2026-02-14</lastmod>
-    </url>
-    <url>
-         <loc>https://example.com/road/</loc>
-         <lastmod>2026-02-14</lastmod>
-    </url>
-    <url>
-         <loc>https://example.com/server_res/</loc>
-         <lastmod>2026-02-14</lastmod>
-    </url>
-    <url>
-         <loc>https://example.com/way_record/</loc>
-         <lastmod>2026-02-14</lastmod>
-    </url>
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- Created By http://www.zhetao.com/sitemapcreator,  URLs: 10 Generated at: 2026-02-14 18:28:56 -->
+
+  <url>
+    <loc>https://buelier.github.io/LRT_RULES/base_rules/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://buelier.github.io/LRT_RULES/record/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://buelier.github.io/LRT_RULES/server_res/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://buelier.github.io/LRT_RULES/meter/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://buelier.github.io/LRT_RULES/railway/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://buelier.github.io/LRT_RULES/way_record/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://buelier.github.io/LRT_RULES/city_record/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://buelier.github.io/LRT_RULES/manger/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://buelier.github.io/LRT_RULES/city_plan/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://buelier.github.io/LRT_RULES/past_events/</loc>
+    <priority>1.00</priority>
+  </url>
+
 </urlset>
