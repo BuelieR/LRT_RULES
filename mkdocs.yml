@@ -71,6 +71,7 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - meta
 
 extra:
   copyright: Copyright &copy; 2026 LRT服务器 | LRT Server
@@ -79,3 +80,6 @@ extra:
       link: mailto:yydshmcl@outlook.com
     - icon: fontawesome/brands/github
       link: https://github.com/BuelieR/LRT_RULES
+
+tags:
+  - <meta name="msvalidate.01" content="4672A4FE60A0F7600CDA84F5F71CAB45" />

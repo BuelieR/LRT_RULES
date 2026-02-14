@@ -1,3 +1,7 @@
+{% block extrahead %}
+  <meta name="msvalidate.01" content="4672A4FE60A0F7600CDA84F5F71CAB45" />
+{% endblock %}
+
 # 欢迎来到LRT服务器
 **LRT服务器是一个Minecraft MTR模组服务器。你可以在本网站查找有关LRT的一切，包括但不限于服务器规则、服务器资源、服务器管理组织等。**
 
